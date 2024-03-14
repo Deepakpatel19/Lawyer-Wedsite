@@ -1,0 +1,19 @@
+{
+  "name": "second_color",
+  "version": "1.0.0",
+  "description": "This is layer website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepakpatel19/Lawyer-Wedsite.git"
+  },
+  "author": "Deepak Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepakpatel19/Lawyer-Wedsite/issues"
+  },
+  "homepage": "https://github.com/Deepakpatel19/Lawyer-Wedsite#readme"
+}
